@@ -1,15 +1,14 @@
-# Example Site Boilerplate
+Wekcome to CADBOXX.
 
-A collection of common content pieces and boilerplate design and assets for use by the Netlify DX team (or anyone, although the content will be rather Netli-centric) when creating example and demo sites.
 
-![A screenshot](screenshot.png)
+CADBOXX is breaking new ground along with others in  the new world of WEB£, De-Centralised Apps And De-Centralised finance DeFi.
 
 ## Todo
 
-Everything really. We're just breaking ground.
+We will be offering users new and exciting ways of funding their projects through Tokenization and we aim to  change the world of CAD forever.
 
 
-## Sample README conventions.
+## NEW APPS AND METHODS OF WORKING
 
 Some common language and descriptions might be useful. What you'll find below this line
 
