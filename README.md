@@ -10,7 +10,7 @@ We will be offering users new and exciting ways of funding their projects throug
 
 ## NEW APPS AND METHODS OF WORKING
 
-Some common language and descriptions might be useful. What you'll find below this line
+We have used be be using new technology and presenting new methods as we discover them for the greater good. Enjoy....
 
 ---
 
