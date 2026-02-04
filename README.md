@@ -1,7 +1,7 @@
 Wekcome to CADBOXX.
 
 
-CADBOXX is breaking new ground along with others in  the new world of WEB£, De-Centralised Apps And De-Centralised finance DeFi.
+CADBOXX is breaking new ground along with others in  the new world of WEB3, De-Centralised Apps And De-Centralised finance DeFi.
 
 ## Todo
 
